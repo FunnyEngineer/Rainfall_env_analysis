@@ -30,7 +30,7 @@ new_test['start datetime'] = pd.to_datetime(new_test['start datetime'] , format=
 new_test['end datetime'] = pd.to_datetime(new_test['end datetime'] , format='%Y/%m/%d %H:%M') 
 
 print(new_test['start datetime'][new_test['start datetime'].idxmin()])
-date = new_test['start datetime'][0]
+date = new_test['start datetime'][1]
 time_index_table = pd.read_csv('../data/time_index.csv')
 time_index_table['datetime'] = pd.to_datetime(time_index_table['datetime'], format="%m/%d/%Y, %H:%M") 
 time_index_table['datetime'] = abs(time_index_table['datetime'] - date)
@@ -43,8 +43,16 @@ distances, indices = neigh.kneighbors(new_input)
 time_index_table = pd.read_csv('../data/time_index.csv')
 time_index_table['datetime'] = pd.to_datetime(time_index_table['datetime'], format="%m/%d/%Y, %H:%M") 
 for rank, i in enumerate(indices[0]):
-	if time_index_table['datetime'][i] > datetime(2010, 1, 1):
-		print("Rank {}: ".format(rank) +str(time_index_table['datetime'][i]))
+	new_date = time_index_table['datetime'][i]
+	for gg in range(len(new_test)):
+		if new_date > new_test['start datetime'][gg] and new_test['end datetime'][gg] > new_date:
+			print("Rank {}: ".format(rank) +str(time_index_table['datetime'][i]) + " is in the period.")
+			break
+	print("Rank {}: ".format(rank)+str(time_index_table['datetime'][i])  + " is not in the period.")
+	
+pdb.set_trace()
+	# if time_index_table['datetime'][i] > datetime(2005, 7, 3):
+	# 	print("Rank {}: ".format(rank) +str(time_index_table['datetime'][i]))
 
 # # test example 2014/07/08 10:15
 # since = datetime(1900, 1, 1)
