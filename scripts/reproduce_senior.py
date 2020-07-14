@@ -6,15 +6,24 @@ import pandas as pd
 # from scipy import signal
 # from sklearn.preprocessing import normalize
 
-window_szie = 6
+# time series data downsampling
+# ARIMA
+# DBSCAN
+# LSTM
+# PCA
+# MDS
 
-for i in range(1979, 2019):
-		data = Dataset("../data/ERA5/download_ " + str(i) + ".nc", "r+", format="NETCDF4")
-		new_first_dim_num = data.variables['t'].shape[0] - window_szie + 1
-		new_input = np.ndarray(shape=(new_first_dim_num,7), dtype=float)
-		for k in range(new_first_dim_num):
-			for j_index, j in enumerate(list(data.variables.keys())[3:]):
-				new_input[k, j_index] = data.variables[j][k:(k+6)].mean()
+window_size = 6
+
+for i in range(1979, 2020):
+    data = Dataset("/Volumes/GoogleDrive/我的雲端硬碟/Research/Data/ERA5/download_ " + str(i) + ".nc", "r+", format="NETCDF4")
+    new_first_dim_num = data.variables['t'].shape[0] - window_size + 1
+    var_num = len(list(data.variables.keys())[3:])
+    new_input = np.ndarray(shape=(new_first_dim_num,window_size *var_num), dtype=float)
+    for k in range(new_first_dim_num):
+        for l in range(window_size):
+            for j_index, j in enumerate(list(data.variables.keys())[3:]):
+                new_input[k, l * var_num + j_index] = data.variables[j][k+l].mean()
 		
-		df_csv = pd.DataFrame(new_input, columns = list(data.variables.keys())[3:])
-		df_csv.to_csv('../data/remake/remake_' + str(i) + '.csv')  
+    df_csv = pd.DataFrame(new_input)
+    df_csv.to_csv('/Volumes/GoogleDrive/我的雲端硬碟/Research/Data/remake/remake_' + str(i) + '.csv')
