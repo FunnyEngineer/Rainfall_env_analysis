@@ -26,8 +26,11 @@ neigh.fit(total_tran)
 # 	neigh.fit(new_data)
 
 new_test = pd.read_csv('../data/Events_Data.csv')
-sin_test_date = new_test['start datetime'][0]
-date = datetime.strptime(sin_test_date, '%Y/%m/%d %I:%M')
+new_test['start datetime'] = pd.to_datetime(new_test['start datetime'] , format='%Y/%m/%d %H:%M') 
+new_test['end datetime'] = pd.to_datetime(new_test['end datetime'] , format='%Y/%m/%d %H:%M') 
+
+print(new_test['start datetime'][new_test['start datetime'].idxmin()])
+date = new_test['start datetime'][0]
 time_index_table = pd.read_csv('../data/time_index.csv')
 time_index_table['datetime'] = pd.to_datetime(time_index_table['datetime'], format="%m/%d/%Y, %H:%M") 
 time_index_table['datetime'] = abs(time_index_table['datetime'] - date)
