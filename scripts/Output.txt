@@ -1,0 +1,968 @@
+Event 0: 2014-07-08 15:07:30 start:
+		Rank 0: 2014-07-08 15:00:00 is in the period.
+		Rank 1: 2014-07-08 16:00:00 is in the period.
+		Rank 2: 2014-07-08 14:00:00 is in the period.
+		Rank 3: 2014-07-08 17:00:00 is in the period.
+		Rank 5: 2014-07-08 13:00:00 is in the period.
+		Rank 14: 2014-07-08 12:00:00 is in the period.
+		Rank 16: 2014-07-08 18:00:00 is in the period.
+For event 0: There are 7 / 30 prediction in the period.
+
+Event 1: 2006-08-29 12:52:30 start:
+		Rank 0: 2006-08-29 13:00:00 is in the period.
+For event 1: There are 1 / 30 prediction in the period.
+
+Event 2: 2012-07-18 17:02:30 start:
+		Rank 0: 2012-07-18 17:00:00 is in the period.
+		Rank 10: 2012-07-18 16:00:00 is in the period.
+		Rank 20: 2012-07-18 18:00:00 is in the period.
+For event 2: There are 3 / 30 prediction in the period.
+
+Event 3: 2006-01-01 00:15:00 start:
+		Rank 0: 2006-01-01 00:00:00 is in the period.
+		Rank 6: 2005-12-31 23:00:00 is in the period.
+		Rank 7: 2006-01-01 01:00:00 is in the period.
+For event 3: There are 3 / 30 prediction in the period.
+
+Event 4: 2016-04-04 11:07:30 start:
+		Rank 0: 2016-04-04 11:00:00 is in the period.
+		Rank 1: 2016-04-04 12:00:00 is in the period.
+		Rank 2: 2016-04-04 10:00:00 is in the period.
+		Rank 23: 2016-04-04 09:00:00 is in the period.
+For event 4: There are 4 / 30 prediction in the period.
+
+Event 5: 2012-08-25 17:22:30 start:
+		Rank 0: 2012-08-25 17:00:00 is in the period.
+For event 5: There are 1 / 30 prediction in the period.
+
+Event 6: 2014-02-08 01:52:30 start:
+		Rank 0: 2014-02-08 02:00:00 is in the period.
+		Rank 12: 2014-02-08 03:00:00 is in the period.
+		Rank 14: 2014-02-08 01:00:00 is in the period.
+For event 6: There are 3 / 30 prediction in the period.
+
+Event 7: 2010-09-06 19:35:00 start:
+		Rank 0: 2010-09-06 20:00:00 is in the period.
+For event 7: There are 1 / 30 prediction in the period.
+
+Event 8: 2005-08-18 19:37:30 start:
+		Rank 0: 2005-08-18 20:00:00 is in the period.
+		Rank 1: 2005-08-18 19:00:00 is in the period.
+		Rank 2: 2005-08-18 18:00:00 is in the period.
+		Rank 3: 2005-08-18 17:00:00 is in the period.
+		Rank 6: 2005-08-18 21:00:00 is in the period.
+For event 8: There are 5 / 30 prediction in the period.
+
+Event 9: 2014-11-03 14:12:30 start:
+		Rank 0: 2014-11-03 14:00:00 is in the period.
+For event 9: There are 1 / 30 prediction in the period.
+
+Event 10: 2014-11-11 13:20:00 start:
+		Rank 0: 2014-11-11 13:00:00 is in the period.
+		Rank 3: 2012-01-03 03:00:00 is in the period.
+		Rank 4: 2012-01-03 02:00:00 is in the period.
+		Rank 7: 2012-01-03 04:00:00 is in the period.
+For event 10: There are 4 / 30 prediction in the period.
+
+Event 11: 2012-07-31 03:25:00 start:
+		Rank 0: 2012-07-31 03:00:00 is in the period.
+		Rank 1: 2012-07-31 02:00:00 is in the period.
+		Rank 2: 2012-07-31 04:00:00 is in the period.
+		Rank 4: 2012-07-31 01:00:00 is in the period.
+		Rank 21: 2012-07-31 00:00:00 is in the period.
+For event 11: There are 5 / 30 prediction in the period.
+
+Event 12: 2009-11-13 15:32:30 start:
+		Rank 0: 2009-11-13 16:00:00 is in the period.
+		Rank 1: 2009-11-13 15:00:00 is in the period.
+		Rank 2: 2009-11-13 17:00:00 is in the period.
+For event 12: There are 3 / 30 prediction in the period.
+
+Event 13: 2010-01-16 07:12:30 start:
+		Rank 0: 2010-01-16 07:00:00 is in the period.
+For event 13: There are 1 / 30 prediction in the period.
+
+Event 14: 2009-11-03 07:12:30 start:
+		Rank 0: 2009-11-03 07:00:00 is in the period.
+		Rank 3: 2009-11-03 03:00:00 is in the period.
+		Rank 7: 2009-11-03 06:00:00 is in the period.
+		Rank 8: 2009-11-03 02:00:00 is in the period.
+		Rank 9: 2009-11-03 04:00:00 is in the period.
+		Rank 13: 2009-11-03 05:00:00 is in the period.
+		Rank 19: 2013-02-06 03:00:00 is in the period.
+		Rank 26: 2009-11-03 08:00:00 is in the period.
+For event 14: There are 8 / 30 prediction in the period.
+
+Event 15: 2007-07-03 23:47:30 start:
+		Rank 0: 2007-07-04 00:00:00 is in the period.
+For event 15: There are 1 / 30 prediction in the period.
+
+Event 16: 2014-06-28 13:30:00 start:
+		Rank 0: 2014-06-28 13:00:00 is in the period.
+For event 16: There are 1 / 30 prediction in the period.
+
+Event 17: 2014-02-01 19:12:30 start:
+		Rank 0: 2014-02-01 19:00:00 is in the period.
+For event 17: There are 1 / 30 prediction in the period.
+
+Event 18: 2016-06-19 18:45:00 start:
+		Rank 0: 2016-06-19 19:00:00 is in the period.
+For event 18: There are 1 / 30 prediction in the period.
+
+Event 19: 2014-11-07 14:00:00 start:
+		Rank 0: 2014-11-07 14:00:00 is in the period.
+		Rank 1: 2014-11-07 12:00:00 is in the period.
+		Rank 2: 2014-11-07 13:00:00 is in the period.
+		Rank 3: 2014-11-07 11:00:00 is in the period.
+		Rank 5: 2014-11-07 15:00:00 is in the period.
+For event 19: There are 5 / 30 prediction in the period.
+
+Event 20: 2012-11-24 17:50:00 start:
+		Rank 0: 2012-11-24 18:00:00 is in the period.
+For event 20: There are 1 / 30 prediction in the period.
+
+Event 21: 2012-06-30 08:50:00 start:
+		Rank 0: 2012-06-29 23:00:00 is in the period.
+		Rank 2: 2012-06-29 22:00:00 is in the period.
+		Rank 18: 2012-06-29 21:00:00 is in the period.
+For event 21: There are 3 / 30 prediction in the period.
+
+Event 22: 2006-04-20 00:10:00 start:
+		Rank 0: 2006-04-20 00:00:00 is in the period.
+		Rank 1: 2006-04-19 21:00:00 is in the period.
+		Rank 2: 2006-04-19 22:00:00 is in the period.
+		Rank 7: 2006-04-19 23:00:00 is in the period.
+		Rank 21: 2006-09-14 09:00:00 is in the period.
+For event 22: There are 5 / 30 prediction in the period.
+
+Event 23: 2008-07-31 23:05:00 start:
+		Rank 0: 2008-07-31 23:00:00 is in the period.
+		Rank 1: 2008-07-31 14:00:00 is in the period.
+		Rank 2: 2008-07-31 15:00:00 is in the period.
+		Rank 3: 2008-07-31 22:00:00 is in the period.
+		Rank 4: 2008-08-01 00:00:00 is in the period.
+		Rank 6: 2009-04-28 20:00:00 is in the period.
+		Rank 7: 2009-04-28 21:00:00 is in the period.
+		Rank 9: 2008-07-31 16:00:00 is in the period.
+		Rank 10: 2008-07-31 21:00:00 is in the period.
+		Rank 12: 2008-07-31 13:00:00 is in the period.
+		Rank 24: 2008-08-01 01:00:00 is in the period.
+		Rank 25: 2008-07-31 17:00:00 is in the period.
+For event 23: There are 12 / 30 prediction in the period.
+
+Event 24: 2011-08-07 18:20:00 start:
+		Rank 0: 2011-08-07 18:00:00 is in the period.
+For event 24: There are 1 / 30 prediction in the period.
+
+Event 25: 2008-09-09 09:47:30 start:
+		Rank 0: 2008-09-09 10:00:00 is in the period.
+For event 25: There are 1 / 30 prediction in the period.
+
+Event 26: 2010-06-13 20:20:00 start:
+		Rank 0: 2010-06-13 20:00:00 is in the period.
+		Rank 1: 2010-06-13 21:00:00 is in the period.
+		Rank 4: 2010-06-13 19:00:00 is in the period.
+		Rank 6: 2010-06-13 22:00:00 is in the period.
+		Rank 14: 2010-08-23 15:00:00 is in the period.
+For event 26: There are 5 / 30 prediction in the period.
+
+Event 27: 2011-11-01 04:42:30 start:
+		Rank 0: 2011-11-01 05:00:00 is in the period.
+		Rank 3: 2011-11-01 04:00:00 is in the period.
+		Rank 14: 2011-11-01 06:00:00 is in the period.
+For event 27: There are 3 / 30 prediction in the period.
+
+Event 28: 2010-08-10 00:37:30 start:
+		Rank 0: 2010-08-10 01:00:00 is in the period.
+		Rank 26: 2008-07-07 05:00:00 is in the period.
+For event 28: There are 2 / 30 prediction in the period.
+
+Event 29: 2010-01-17 01:22:30 start:
+		Rank 0: 2010-01-17 01:00:00 is in the period.
+		Rank 4: 2010-01-17 00:00:00 is in the period.
+		Rank 5: 2010-01-17 02:00:00 is in the period.
+		Rank 11: 2010-01-16 23:00:00 is in the period.
+		Rank 21: 2010-01-17 03:00:00 is in the period.
+For event 29: There are 5 / 30 prediction in the period.
+
+Event 30: 2009-06-15 13:10:00 start:
+		Rank 0: 2009-06-15 13:00:00 is in the period.
+		Rank 14: 2014-02-01 20:00:00 is in the period.
+For event 30: There are 2 / 30 prediction in the period.
+
+Event 31: 2012-09-10 15:07:30 start:
+		Rank 0: 2012-09-10 15:00:00 is in the period.
+		Rank 1: 2012-09-10 16:00:00 is in the period.
+		Rank 2: 2012-09-10 14:00:00 is in the period.
+		Rank 7: 2012-09-10 17:00:00 is in the period.
+		Rank 12: 2012-09-10 23:00:00 is in the period.
+		Rank 17: 2012-09-10 18:00:00 is in the period.
+		Rank 18: 2012-09-10 22:00:00 is in the period.
+For event 31: There are 7 / 30 prediction in the period.
+
+Event 32: 2012-07-30 11:17:30 start:
+		Rank 2: 2012-07-31 00:00:00 is in the period.
+		Rank 5: 2012-07-31 01:00:00 is in the period.
+		Rank 8: 2012-07-31 02:00:00 is in the period.
+For event 32: There are 3 / 30 prediction in the period.
+
+Event 33: 2013-07-25 01:55:00 start:
+		Rank 0: 2013-07-25 02:00:00 is in the period.
+For event 33: There are 1 / 30 prediction in the period.
+
+Event 34: 2016-06-08 16:05:00 start:
+		Rank 0: 2016-06-08 16:00:00 is in the period.
+		Rank 25: 2016-06-08 15:00:00 is in the period.
+		Rank 28: 2016-06-08 17:00:00 is in the period.
+For event 34: There are 3 / 30 prediction in the period.
+
+Event 35: 2007-09-23 23:45:00 start:
+		Rank 0: 2007-09-24 00:00:00 is in the period.
+		Rank 10: 2008-08-02 05:00:00 is in the period.
+		Rank 18: 2006-05-22 06:00:00 is in the period.
+For event 35: There are 3 / 30 prediction in the period.
+
+Event 36: 2014-08-02 02:17:30 start:
+		Rank 0: 2014-08-02 02:00:00 is in the period.
+For event 36: There are 1 / 30 prediction in the period.
+
+Event 37: 2009-04-28 19:22:30 start:
+		Rank 0: 2009-04-28 19:00:00 is in the period.
+		Rank 1: 2008-07-31 12:00:00 is in the period.
+		Rank 12: 2008-08-01 01:00:00 is in the period.
+		Rank 14: 2008-08-01 02:00:00 is in the period.
+		Rank 18: 2008-07-31 13:00:00 is in the period.
+		Rank 27: 2008-07-31 11:00:00 is in the period.
+For event 37: There are 6 / 30 prediction in the period.
+
+Event 38: 2006-01-16 13:32:30 start:
+		Rank 0: 2006-01-16 14:00:00 is in the period.
+		Rank 1: 2006-01-16 13:00:00 is in the period.
+		Rank 2: 2006-01-16 15:00:00 is in the period.
+		Rank 6: 2006-01-16 12:00:00 is in the period.
+		Rank 10: 2006-01-16 16:00:00 is in the period.
+For event 38: There are 5 / 30 prediction in the period.
+
+Event 39: 2014-06-09 21:45:00 start:
+		Rank 0: 2014-06-09 22:00:00 is in the period.
+		Rank 7: 2014-04-25 17:00:00 is in the period.
+		Rank 15: 2014-06-09 21:00:00 is in the period.
+		Rank 20: 2014-04-25 18:00:00 is in the period.
+		Rank 24: 2014-04-25 16:00:00 is in the period.
+		Rank 26: 2014-06-09 23:00:00 is in the period.
+For event 39: There are 6 / 30 prediction in the period.
+
+Event 40: 2016-06-10 19:20:00 start:
+		Rank 0: 2016-06-10 19:00:00 is in the period.
+		Rank 1: 2016-06-10 18:00:00 is in the period.
+		Rank 2: 2016-06-10 20:00:00 is in the period.
+		Rank 6: 2012-07-31 05:00:00 is in the period.
+For event 40: There are 4 / 30 prediction in the period.
+
+Event 41: 2015-12-03 17:17:30 start:
+		Rank 0: 2015-12-03 17:00:00 is in the period.
+For event 41: There are 1 / 30 prediction in the period.
+
+Event 42: 2007-07-20 21:32:30 start:
+		Rank 0: 2007-07-20 22:00:00 is in the period.
+For event 42: There are 1 / 30 prediction in the period.
+
+Event 43: 2007-01-09 21:17:30 start:
+		Rank 0: 2007-01-09 21:00:00 is in the period.
+		Rank 1: 2007-01-09 22:00:00 is in the period.
+		Rank 2: 2007-01-09 20:00:00 is in the period.
+		Rank 3: 2007-01-09 23:00:00 is in the period.
+		Rank 4: 2007-01-09 19:00:00 is in the period.
+		Rank 6: 2007-01-10 00:00:00 is in the period.
+		Rank 9: 2007-01-10 01:00:00 is in the period.
+		Rank 10: 2007-01-09 18:00:00 is in the period.
+		Rank 12: 2007-01-10 02:00:00 is in the period.
+		Rank 15: 2007-01-09 17:00:00 is in the period.
+		Rank 19: 2007-01-10 03:00:00 is in the period.
+For event 43: There are 11 / 30 prediction in the period.
+
+Event 44: 2008-08-20 17:52:30 start:
+		Rank 0: 2008-08-20 18:00:00 is in the period.
+		Rank 14: 2012-07-06 05:00:00 is in the period.
+For event 44: There are 2 / 30 prediction in the period.
+
+Event 45: 2011-11-04 19:15:00 start:
+		Rank 0: 2011-11-04 19:00:00 is in the period.
+		Rank 1: 2011-11-04 18:00:00 is in the period.
+		Rank 2: 2011-11-04 20:00:00 is in the period.
+		Rank 7: 2011-11-04 17:00:00 is in the period.
+		Rank 14: 2011-11-04 21:00:00 is in the period.
+For event 45: There are 5 / 30 prediction in the period.
+
+Event 46: 2012-12-22 15:17:30 start:
+		Rank 0: 2012-12-22 15:00:00 is in the period.
+For event 46: There are 1 / 30 prediction in the period.
+
+Event 47: 2006-09-22 13:02:30 start:
+		Rank 0: 2006-09-22 13:00:00 is in the period.
+		Rank 4: 2006-09-22 14:00:00 is in the period.
+		Rank 12: 2006-09-22 15:00:00 is in the period.
+		Rank 24: 2006-09-22 12:00:00 is in the period.
+For event 47: There are 4 / 30 prediction in the period.
+
+Event 48: 2010-08-14 00:20:00 start:
+		Rank 0: 2010-08-14 00:00:00 is in the period.
+		Rank 5: 2009-04-27 20:00:00 is in the period.
+For event 48: There are 2 / 30 prediction in the period.
+
+Event 49: 2011-05-26 11:12:30 start:
+		Rank 0: 2011-05-26 11:00:00 is in the period.
+		Rank 12: 2011-05-26 10:00:00 is in the period.
+		Rank 14: 2011-05-26 12:00:00 is in the period.
+For event 49: There are 3 / 30 prediction in the period.
+
+Event 50: 2012-01-03 07:52:30 start:
+		Rank 0: 2012-01-03 08:00:00 is in the period.
+For event 50: There are 1 / 30 prediction in the period.
+
+Event 51: 2008-09-02 06:12:30 start:
+		Rank 0: 2008-09-02 06:00:00 is in the period.
+For event 51: There are 1 / 30 prediction in the period.
+
+Event 52: 2007-12-08 14:00:00 start:
+		Rank 0: 2007-12-08 14:00:00 is in the period.
+		Rank 21: 2007-12-08 15:00:00 is in the period.
+For event 52: There are 2 / 30 prediction in the period.
+
+Event 53: 2014-08-29 18:55:00 start:
+		Rank 0: 2014-08-29 19:00:00 is in the period.
+		Rank 3: 2014-08-29 14:00:00 is in the period.
+		Rank 4: 2014-08-29 18:00:00 is in the period.
+		Rank 16: 2014-08-29 20:00:00 is in the period.
+		Rank 24: 2014-08-29 15:00:00 is in the period.
+For event 53: There are 5 / 30 prediction in the period.
+
+Event 54: 2014-02-06 22:20:00 start:
+		Rank 0: 2014-02-06 22:00:00 is in the period.
+		Rank 3: 2014-02-06 21:00:00 is in the period.
+		Rank 7: 2014-02-06 23:00:00 is in the period.
+For event 54: There are 3 / 30 prediction in the period.
+
+Event 55: 2017-07-11 14:10:00 start:
+		Rank 0: 2017-07-11 14:00:00 is in the period.
+		Rank 15: 2017-07-11 21:00:00 is in the period.
+For event 55: There are 2 / 30 prediction in the period.
+
+Event 56: 2015-12-03 00:10:00 start:
+		Rank 0: 2015-12-03 00:00:00 is in the period.
+		Rank 1: 2015-12-03 01:00:00 is in the period.
+		Rank 2: 2015-12-02 23:00:00 is in the period.
+		Rank 3: 2015-12-02 22:00:00 is in the period.
+		Rank 5: 2015-12-03 02:00:00 is in the period.
+For event 56: There are 5 / 30 prediction in the period.
+
+Event 57: 2012-03-04 11:02:30 start:
+		Rank 0: 2012-03-04 11:00:00 is in the period.
+		Rank 1: 2012-03-04 10:00:00 is in the period.
+		Rank 2: 2012-03-04 12:00:00 is in the period.
+		Rank 3: 2012-03-04 09:00:00 is in the period.
+		Rank 4: 2012-03-04 13:00:00 is in the period.
+		Rank 5: 2012-03-04 08:00:00 is in the period.
+		Rank 6: 2012-03-04 14:00:00 is in the period.
+		Rank 7: 2012-03-04 07:00:00 is in the period.
+		Rank 13: 2012-03-04 06:00:00 is in the period.
+		Rank 16: 2012-03-04 15:00:00 is in the period.
+For event 57: There are 10 / 30 prediction in the period.
+
+Event 58: 2015-10-05 23:02:30 start:
+		Rank 0: 2015-10-05 23:00:00 is in the period.
+For event 58: There are 1 / 30 prediction in the period.
+
+Event 59: 2016-09-16 08:10:00 start:
+		Rank 0: 2016-09-16 08:00:00 is in the period.
+		Rank 1: 2016-09-16 09:00:00 is in the period.
+For event 59: There are 2 / 30 prediction in the period.
+
+Event 60: 2016-10-01 14:32:30 start:
+		Rank 0: 2016-10-01 15:00:00 is in the period.
+		Rank 2: 2016-10-01 16:00:00 is in the period.
+		Rank 3: 2016-10-01 14:00:00 is in the period.
+		Rank 15: 2016-10-01 17:00:00 is in the period.
+For event 60: There are 4 / 30 prediction in the period.
+
+Event 61: 2012-08-24 20:00:00 start:
+		Rank 0: 2012-08-24 20:00:00 is in the period.
+For event 61: There are 1 / 30 prediction in the period.
+
+Event 62: 2009-06-06 14:15:00 start:
+		Rank 0: 2009-06-06 14:00:00 is in the period.
+		Rank 1: 2009-06-06 15:00:00 is in the period.
+		Rank 2: 2009-06-06 13:00:00 is in the period.
+		Rank 3: 2009-06-06 16:00:00 is in the period.
+		Rank 4: 2009-06-06 12:00:00 is in the period.
+		Rank 5: 2009-06-06 17:00:00 is in the period.
+		Rank 6: 2009-06-06 11:00:00 is in the period.
+For event 62: There are 7 / 30 prediction in the period.
+
+Event 63: 2008-07-06 10:17:30 start:
+		Rank 0: 2008-07-06 10:00:00 is in the period.
+For event 63: There are 1 / 30 prediction in the period.
+
+Event 64: 2007-05-30 11:17:30 start:
+For event 64: There are 0 / 30 prediction in the period.
+
+Event 65: 2005-07-04 12:17:30 start:
+		Rank 0: 2005-07-04 12:00:00 is in the period.
+		Rank 1: 2005-07-04 13:00:00 is in the period.
+		Rank 2: 2005-07-04 11:00:00 is in the period.
+		Rank 5: 2005-07-04 14:00:00 is in the period.
+		Rank 6: 2005-07-04 15:00:00 is in the period.
+		Rank 7: 2005-07-04 10:00:00 is in the period.
+		Rank 11: 2005-07-04 16:00:00 is in the period.
+		Rank 26: 2005-07-04 17:00:00 is in the period.
+For event 65: There are 8 / 30 prediction in the period.
+
+Event 66: 2009-04-27 14:45:00 start:
+		Rank 0: 2009-04-27 15:00:00 is in the period.
+		Rank 9: 2008-08-02 02:00:00 is in the period.
+For event 66: There are 2 / 30 prediction in the period.
+
+Event 67: 2008-07-29 14:27:30 start:
+		Rank 0: 2008-07-29 14:00:00 is in the period.
+		Rank 1: 2008-07-29 15:00:00 is in the period.
+		Rank 2: 2008-07-29 13:00:00 is in the period.
+For event 67: There are 3 / 30 prediction in the period.
+
+Event 68: 2010-06-08 13:45:00 start:
+		Rank 0: 2010-06-08 14:00:00 is in the period.
+		Rank 1: 2010-06-08 15:00:00 is in the period.
+		Rank 2: 2010-06-08 13:00:00 is in the period.
+		Rank 7: 2010-06-09 01:00:00 is in the period.
+		Rank 17: 2010-06-08 16:00:00 is in the period.
+		Rank 23: 2010-06-08 12:00:00 is in the period.
+		Rank 25: 2010-06-09 02:00:00 is in the period.
+For event 68: There are 7 / 30 prediction in the period.
+
+Event 69: 2012-08-21 16:55:00 start:
+		Rank 0: 2012-08-21 17:00:00 is in the period.
+		Rank 6: 2008-12-13 01:00:00 is in the period.
+For event 69: There are 2 / 30 prediction in the period.
+
+Event 70: 2015-09-01 00:40:00 start:
+		Rank 0: 2015-09-01 01:00:00 is in the period.
+For event 70: There are 1 / 30 prediction in the period.
+
+Event 71: 2016-04-14 10:17:30 start:
+		Rank 0: 2016-04-14 10:00:00 is in the period.
+For event 71: There are 1 / 30 prediction in the period.
+
+Event 72: 2016-03-09 07:45:00 start:
+		Rank 0: 2016-03-09 08:00:00 is in the period.
+For event 72: There are 1 / 30 prediction in the period.
+
+Event 73: 2009-05-15 21:05:00 start:
+		Rank 0: 2009-05-15 21:00:00 is in the period.
+For event 73: There are 1 / 30 prediction in the period.
+
+Event 74: 2010-08-23 07:45:00 start:
+		Rank 0: 2010-08-23 08:00:00 is in the period.
+For event 74: There are 1 / 30 prediction in the period.
+
+Event 75: 2007-05-08 08:40:00 start:
+		Rank 0: 2007-05-08 09:00:00 is in the period.
+		Rank 14: 2007-05-08 08:00:00 is in the period.
+For event 75: There are 2 / 30 prediction in the period.
+
+Event 76: 2007-07-09 17:05:00 start:
+		Rank 0: 2007-07-09 17:00:00 is in the period.
+For event 76: There are 1 / 30 prediction in the period.
+
+Event 77: 2008-11-02 06:50:00 start:
+		Rank 0: 2008-11-02 07:00:00 is in the period.
+		Rank 1: 2008-11-02 16:00:00 is in the period.
+		Rank 2: 2008-11-02 08:00:00 is in the period.
+		Rank 3: 2008-11-02 06:00:00 is in the period.
+		Rank 5: 2008-11-02 17:00:00 is in the period.
+		Rank 8: 2008-11-02 15:00:00 is in the period.
+For event 77: There are 6 / 30 prediction in the period.
+
+Event 78: 2007-06-30 19:22:30 start:
+		Rank 0: 2007-07-01 00:00:00 is in the period.
+		Rank 2: 2007-07-01 01:00:00 is in the period.
+For event 78: There are 2 / 30 prediction in the period.
+
+Event 79: 2006-11-24 21:22:30 start:
+		Rank 0: 2006-11-24 21:00:00 is in the period.
+		Rank 1: 2006-11-24 19:00:00 is in the period.
+		Rank 2: 2006-11-24 22:00:00 is in the period.
+		Rank 3: 2006-11-24 20:00:00 is in the period.
+		Rank 4: 2006-11-24 18:00:00 is in the period.
+		Rank 5: 2006-11-24 23:00:00 is in the period.
+		Rank 6: 2006-11-25 00:00:00 is in the period.
+		Rank 7: 2006-11-24 17:00:00 is in the period.
+		Rank 8: 2006-11-25 01:00:00 is in the period.
+		Rank 9: 2006-11-24 16:00:00 is in the period.
+		Rank 10: 2006-11-25 02:00:00 is in the period.
+		Rank 11: 2006-11-24 15:00:00 is in the period.
+		Rank 12: 2006-11-25 03:00:00 is in the period.
+		Rank 14: 2006-11-24 14:00:00 is in the period.
+		Rank 25: 2006-11-25 04:00:00 is in the period.
+For event 79: There are 15 / 30 prediction in the period.
+
+Event 80: 2006-09-24 07:47:30 start:
+		Rank 0: 2006-09-24 08:00:00 is in the period.
+For event 80: There are 1 / 30 prediction in the period.
+
+Event 81: 2016-02-07 06:30:00 start:
+		Rank 0: 2016-02-07 06:00:00 is in the period.
+		Rank 2: 2016-02-07 05:00:00 is in the period.
+		Rank 4: 2016-02-07 07:00:00 is in the period.
+For event 81: There are 3 / 30 prediction in the period.
+
+Event 82: 2012-07-16 11:40:00 start:
+		Rank 0: 2012-07-16 12:00:00 is in the period.
+		Rank 1: 2012-07-16 13:00:00 is in the period.
+		Rank 2: 2012-07-16 11:00:00 is in the period.
+		Rank 8: 2012-07-16 14:00:00 is in the period.
+		Rank 9: 2012-07-16 10:00:00 is in the period.
+For event 82: There are 5 / 30 prediction in the period.
+
+Event 83: 2014-06-03 00:02:30 start:
+		Rank 0: 2014-06-03 00:00:00 is in the period.
+		Rank 1: 2014-06-03 01:00:00 is in the period.
+		Rank 2: 2014-06-02 23:00:00 is in the period.
+		Rank 3: 2014-06-03 02:00:00 is in the period.
+		Rank 4: 2014-06-03 03:00:00 is in the period.
+		Rank 5: 2014-06-03 04:00:00 is in the period.
+		Rank 6: 2014-06-02 22:00:00 is in the period.
+		Rank 7: 2014-06-02 21:00:00 is in the period.
+		Rank 9: 2014-06-02 20:00:00 is in the period.
+		Rank 10: 2014-06-03 05:00:00 is in the period.
+For event 83: There are 10 / 30 prediction in the period.
+
+Event 84: 2013-02-05 20:25:00 start:
+		Rank 0: 2013-02-05 20:00:00 is in the period.
+For event 84: There are 1 / 30 prediction in the period.
+
+Event 85: 2015-07-05 15:52:30 start:
+		Rank 0: 2015-07-05 16:00:00 is in the period.
+		Rank 7: 2015-07-05 17:00:00 is in the period.
+		Rank 18: 2015-07-05 15:00:00 is in the period.
+For event 85: There are 3 / 30 prediction in the period.
+
+Event 86: 2006-05-21 23:55:00 start:
+		Rank 0: 2006-05-22 00:00:00 is in the period.
+		Rank 10: 2014-08-01 19:00:00 is in the period.
+		Rank 15: 2008-07-01 23:00:00 is in the period.
+For event 86: There are 3 / 30 prediction in the period.
+
+Event 87: 2012-09-24 00:10:00 start:
+		Rank 0: 2012-09-24 00:00:00 is in the period.
+		Rank 1: 2012-09-24 04:00:00 is in the period.
+		Rank 2: 2012-09-24 01:00:00 is in the period.
+		Rank 5: 2012-09-24 05:00:00 is in the period.
+		Rank 10: 2012-09-24 03:00:00 is in the period.
+		Rank 12: 2012-09-23 23:00:00 is in the period.
+		Rank 13: 2012-09-24 02:00:00 is in the period.
+For event 87: There are 7 / 30 prediction in the period.
+
+Event 88: 2015-07-04 00:32:30 start:
+		Rank 0: 2015-07-04 01:00:00 is in the period.
+		Rank 3: 2015-07-04 00:00:00 is in the period.
+For event 88: There are 2 / 30 prediction in the period.
+
+Event 89: 2012-11-20 21:05:00 start:
+		Rank 0: 2012-11-20 21:00:00 is in the period.
+		Rank 7: 2012-11-20 20:00:00 is in the period.
+For event 89: There are 2 / 30 prediction in the period.
+
+Event 90: 2008-09-12 15:15:00 start:
+		Rank 0: 2008-09-12 15:00:00 is in the period.
+		Rank 1: 2008-09-12 14:00:00 is in the period.
+		Rank 5: 2008-09-12 16:00:00 is in the period.
+For event 90: There are 3 / 30 prediction in the period.
+
+Event 91: 2008-10-04 22:20:00 start:
+		Rank 0: 2008-10-04 22:00:00 is in the period.
+For event 91: There are 1 / 30 prediction in the period.
+
+Event 92: 2014-05-24 02:27:30 start:
+		Rank 0: 2014-05-24 02:00:00 is in the period.
+		Rank 1: 2014-05-24 03:00:00 is in the period.
+		Rank 3: 2014-05-24 01:00:00 is in the period.
+For event 92: There are 3 / 30 prediction in the period.
+
+Event 93: 2016-11-21 18:07:30 start:
+		Rank 0: 2016-11-21 18:00:00 is in the period.
+		Rank 1: 2016-11-21 17:00:00 is in the period.
+		Rank 2: 2016-11-21 19:00:00 is in the period.
+		Rank 3: 2016-11-21 16:00:00 is in the period.
+		Rank 15: 2016-11-21 20:00:00 is in the period.
+		Rank 21: 2016-11-21 15:00:00 is in the period.
+For event 93: There are 6 / 30 prediction in the period.
+
+Event 94: 2012-07-06 10:27:30 start:
+		Rank 0: 2012-07-06 10:00:00 is in the period.
+For event 94: There are 1 / 30 prediction in the period.
+
+Event 95: 2005-10-12 17:35:00 start:
+		Rank 0: 2005-10-12 18:00:00 is in the period.
+		Rank 7: 2005-10-12 13:00:00 is in the period.
+		Rank 15: 2005-10-12 17:00:00 is in the period.
+		Rank 17: 2005-10-12 12:00:00 is in the period.
+For event 95: There are 4 / 30 prediction in the period.
+
+Event 96: 2013-08-02 16:35:00 start:
+		Rank 0: 2013-08-02 17:00:00 is in the period.
+		Rank 20: 2013-10-14 13:00:00 is in the period.
+For event 96: There are 2 / 30 prediction in the period.
+
+Event 97: 2007-10-28 10:25:00 start:
+		Rank 0: 2007-10-28 10:00:00 is in the period.
+For event 97: There are 1 / 30 prediction in the period.
+
+Event 98: 2007-09-22 01:40:00 start:
+		Rank 0: 2007-09-22 02:00:00 is in the period.
+		Rank 1: 2007-09-21 19:00:00 is in the period.
+		Rank 2: 2007-09-22 03:00:00 is in the period.
+		Rank 3: 2007-09-22 01:00:00 is in the period.
+		Rank 4: 2007-09-21 20:00:00 is in the period.
+		Rank 5: 2007-09-22 00:00:00 is in the period.
+		Rank 10: 2007-09-21 18:00:00 is in the period.
+		Rank 16: 2007-09-21 21:00:00 is in the period.
+		Rank 18: 2007-09-21 23:00:00 is in the period.
+For event 98: There are 9 / 30 prediction in the period.
+
+Event 99: 2005-07-05 16:50:00 start:
+		Rank 0: 2005-07-05 17:00:00 is in the period.
+For event 99: There are 1 / 30 prediction in the period.
+
+Event 100: 2006-12-11 06:10:00 start:
+		Rank 0: 2006-12-11 06:00:00 is in the period.
+For event 100: There are 1 / 30 prediction in the period.
+
+Event 101: 2009-09-02 15:37:30 start:
+		Rank 0: 2009-09-02 16:00:00 is in the period.
+For event 101: There are 1 / 30 prediction in the period.
+
+Event 102: 2013-10-12 22:05:00 start:
+		Rank 0: 2013-10-12 22:00:00 is in the period.
+		Rank 11: 2013-10-13 07:00:00 is in the period.
+		Rank 17: 2013-10-13 08:00:00 is in the period.
+For event 102: There are 3 / 30 prediction in the period.
+
+Event 103: 2014-02-15 01:27:30 start:
+		Rank 0: 2014-02-15 01:00:00 is in the period.
+For event 103: There are 1 / 30 prediction in the period.
+
+Event 104: 2016-11-20 02:32:30 start:
+		Rank 0: 2016-11-20 03:00:00 is in the period.
+For event 104: There are 1 / 30 prediction in the period.
+
+Event 105: 2008-01-14 23:37:30 start:
+		Rank 0: 2008-01-15 00:00:00 is in the period.
+		Rank 1: 2008-01-15 01:00:00 is in the period.
+		Rank 2: 2008-01-15 08:00:00 is in the period.
+		Rank 3: 2008-01-14 23:00:00 is in the period.
+		Rank 4: 2008-01-15 02:00:00 is in the period.
+		Rank 5: 2008-01-15 07:00:00 is in the period.
+		Rank 6: 2008-01-15 09:00:00 is in the period.
+		Rank 7: 2008-01-15 06:00:00 is in the period.
+		Rank 8: 2008-01-15 03:00:00 is in the period.
+		Rank 9: 2008-01-15 04:00:00 is in the period.
+		Rank 10: 2008-01-15 05:00:00 is in the period.
+		Rank 11: 2008-01-14 22:00:00 is in the period.
+		Rank 12: 2008-01-14 21:00:00 is in the period.
+		Rank 13: 2008-01-15 10:00:00 is in the period.
+		Rank 14: 2008-01-14 20:00:00 is in the period.
+		Rank 15: 2008-01-14 19:00:00 is in the period.
+		Rank 16: 2008-01-14 18:00:00 is in the period.
+		Rank 17: 2008-01-14 17:00:00 is in the period.
+		Rank 20: 2008-01-14 16:00:00 is in the period.
+		Rank 22: 2008-01-14 02:00:00 is in the period.
+		Rank 24: 2008-01-14 00:00:00 is in the period.
+		Rank 25: 2008-01-14 01:00:00 is in the period.
+		Rank 27: 2008-01-15 11:00:00 is in the period.
+		Rank 28: 2008-01-13 23:00:00 is in the period.
+		Rank 29: 2008-01-13 22:00:00 is in the period.
+For event 105: There are 25 / 30 prediction in the period.
+
+Event 106: 2013-10-21 11:57:30 start:
+		Rank 0: 2013-10-21 12:00:00 is in the period.
+For event 106: There are 1 / 30 prediction in the period.
+
+Event 107: 2014-08-11 15:40:00 start:
+		Rank 0: 2014-08-11 16:00:00 is in the period.
+		Rank 10: 2014-08-11 17:00:00 is in the period.
+		Rank 15: 2014-08-11 15:00:00 is in the period.
+For event 107: There are 3 / 30 prediction in the period.
+
+Event 108: 2010-04-30 06:45:00 start:
+		Rank 0: 2010-04-29 23:00:00 is in the period.
+		Rank 3: 2008-05-28 21:00:00 is in the period.
+For event 108: There are 2 / 30 prediction in the period.
+
+Event 109: 2008-12-13 11:00:00 start:
+		Rank 0: 2008-12-13 11:00:00 is in the period.
+For event 109: There are 1 / 30 prediction in the period.
+
+Event 110: 2006-08-25 22:00:00 start:
+		Rank 0: 2006-08-25 22:00:00 is in the period.
+		Rank 12: 2006-08-25 23:00:00 is in the period.
+		Rank 18: 2006-08-25 21:00:00 is in the period.
+For event 110: There are 3 / 30 prediction in the period.
+
+Event 111: 2008-07-01 22:57:30 start:
+		Rank 0: 2008-07-01 23:00:00 is in the period.
+		Rank 9: 2006-05-22 00:00:00 is in the period.
+		Rank 15: 2014-08-01 20:00:00 is in the period.
+For event 111: There are 3 / 30 prediction in the period.
+
+Event 112: 2006-09-14 04:17:30 start:
+		Rank 0: 2006-09-14 04:00:00 is in the period.
+		Rank 15: 2006-09-14 09:00:00 is in the period.
+		Rank 24: 2006-09-14 05:00:00 is in the period.
+For event 112: There are 3 / 30 prediction in the period.
+
+Event 113: 2007-09-24 20:42:30 start:
+		Rank 0: 2007-09-24 21:00:00 is in the period.
+For event 113: There are 1 / 30 prediction in the period.
+
+Event 114: 2009-08-01 04:00:00 start:
+		Rank 0: 2009-08-01 04:00:00 is in the period.
+For event 114: There are 1 / 30 prediction in the period.
+
+Event 115: 2010-06-09 18:55:00 start:
+		Rank 0: 2010-06-09 19:00:00 is in the period.
+		Rank 5: 2012-07-19 02:00:00 is in the period.
+For event 115: There are 2 / 30 prediction in the period.
+
+Event 116: 2009-06-30 08:30:00 start:
+For event 116: There are 0 / 30 prediction in the period.
+
+Event 117: 2005-11-08 17:15:00 start:
+		Rank 0: 2005-11-08 17:00:00 is in the period.
+		Rank 15: 2005-11-08 18:00:00 is in the period.
+		Rank 16: 2005-11-08 16:00:00 is in the period.
+For event 117: There are 3 / 30 prediction in the period.
+
+Event 118: 2014-08-10 11:12:30 start:
+		Rank 0: 2014-08-10 11:00:00 is in the period.
+For event 118: There are 1 / 30 prediction in the period.
+
+Event 119: 2016-06-12 11:37:30 start:
+		Rank 0: 2016-06-12 12:00:00 is in the period.
+		Rank 5: 2016-06-12 11:00:00 is in the period.
+		Rank 11: 2016-06-12 13:00:00 is in the period.
+For event 119: There are 3 / 30 prediction in the period.
+
+Event 120: 2013-07-23 05:07:30 start:
+		Rank 0: 2013-07-23 05:00:00 is in the period.
+		Rank 1: 2013-07-23 04:00:00 is in the period.
+		Rank 2: 2013-07-23 06:00:00 is in the period.
+		Rank 3: 2013-07-23 07:00:00 is in the period.
+		Rank 4: 2013-07-23 03:00:00 is in the period.
+		Rank 5: 2013-07-23 08:00:00 is in the period.
+For event 120: There are 6 / 30 prediction in the period.
+
+Event 121: 2016-09-13 14:52:30 start:
+		Rank 0: 2016-09-13 15:00:00 is in the period.
+		Rank 1: 2016-09-13 14:00:00 is in the period.
+		Rank 4: 2016-09-13 16:00:00 is in the period.
+		Rank 7: 2016-09-13 13:00:00 is in the period.
+		Rank 15: 2016-09-13 17:00:00 is in the period.
+For event 121: There are 5 / 30 prediction in the period.
+
+Event 122: 2014-06-04 05:57:30 start:
+		Rank 0: 2014-06-04 06:00:00 is in the period.
+		Rank 23: 2010-05-01 23:00:00 is in the period.
+For event 122: There are 2 / 30 prediction in the period.
+
+Event 123: 2012-06-28 06:07:30 start:
+		Rank 0: 2012-06-28 06:00:00 is in the period.
+		Rank 8: 2007-07-20 21:00:00 is in the period.
+For event 123: There are 2 / 30 prediction in the period.
+
+Event 124: 2012-07-13 10:37:30 start:
+		Rank 0: 2012-07-13 11:00:00 is in the period.
+		Rank 20: 2009-06-15 11:00:00 is in the period.
+For event 124: There are 2 / 30 prediction in the period.
+
+Event 125: 2016-06-01 07:52:30 start:
+		Rank 0: 2016-06-01 08:00:00 is in the period.
+For event 125: There are 1 / 30 prediction in the period.
+
+Event 126: 2013-02-04 23:05:00 start:
+		Rank 0: 2013-02-04 23:00:00 is in the period.
+For event 126: There are 1 / 30 prediction in the period.
+
+Event 127: 2012-06-07 17:07:30 start:
+		Rank 0: 2012-06-07 17:00:00 is in the period.
+		Rank 28: 2012-06-07 18:00:00 is in the period.
+For event 127: There are 2 / 30 prediction in the period.
+
+Event 128: 2014-06-09 04:20:00 start:
+		Rank 0: 2014-06-09 04:00:00 is in the period.
+		Rank 19: 2005-07-06 03:00:00 is in the period.
+For event 128: There are 2 / 30 prediction in the period.
+
+Event 129: 2007-05-31 15:07:30 start:
+		Rank 0: 2007-05-31 15:00:00 is in the period.
+For event 129: There are 1 / 30 prediction in the period.
+
+Event 130: 2009-07-23 10:12:30 start:
+		Rank 0: 2009-07-23 10:00:00 is in the period.
+For event 130: There are 1 / 30 prediction in the period.
+
+Event 131: 2009-06-26 16:52:30 start:
+		Rank 0: 2009-06-26 17:00:00 is in the period.
+For event 131: There are 1 / 30 prediction in the period.
+
+Event 132: 2008-07-28 20:55:00 start:
+		Rank 0: 2008-07-28 21:00:00 is in the period.
+		Rank 1: 2008-07-28 22:00:00 is in the period.
+		Rank 2: 2008-07-28 20:00:00 is in the period.
+		Rank 6: 2008-07-28 23:00:00 is in the period.
+		Rank 11: 2008-07-28 19:00:00 is in the period.
+For event 132: There are 5 / 30 prediction in the period.
+
+Event 133: 2008-11-09 01:57:30 start:
+		Rank 0: 2008-11-09 02:00:00 is in the period.
+		Rank 21: 2010-08-23 05:00:00 is in the period.
+For event 133: There are 2 / 30 prediction in the period.
+
+Event 134: 2008-05-28 07:55:00 start:
+		Rank 0: 2008-05-28 08:00:00 is in the period.
+		Rank 1: 2008-05-28 07:00:00 is in the period.
+		Rank 2: 2008-05-28 06:00:00 is in the period.
+		Rank 3: 2008-05-28 09:00:00 is in the period.
+		Rank 9: 2008-05-28 05:00:00 is in the period.
+For event 134: There are 5 / 30 prediction in the period.
+
+Event 135: 2009-06-10 16:37:30 start:
+		Rank 0: 2009-06-10 17:00:00 is in the period.
+		Rank 4: 2009-06-10 18:00:00 is in the period.
+		Rank 7: 2009-06-10 16:00:00 is in the period.
+For event 135: There are 3 / 30 prediction in the period.
+
+Event 136: 2007-08-14 19:25:00 start:
+		Rank 0: 2007-08-14 19:00:00 is in the period.
+		Rank 1: 2007-08-14 20:00:00 is in the period.
+		Rank 2: 2007-08-14 18:00:00 is in the period.
+		Rank 6: 2007-08-14 21:00:00 is in the period.
+		Rank 18: 2007-08-14 17:00:00 is in the period.
+For event 136: There are 5 / 30 prediction in the period.
+
+Event 137: 2013-07-29 13:50:00 start:
+		Rank 0: 2013-07-29 14:00:00 is in the period.
+		Rank 2: 2013-07-29 15:00:00 is in the period.
+		Rank 3: 2013-07-29 13:00:00 is in the period.
+		Rank 18: 2013-07-29 16:00:00 is in the period.
+For event 137: There are 4 / 30 prediction in the period.
+
+Event 138: 2012-11-25 20:17:30 start:
+		Rank 0: 2012-11-25 20:00:00 is in the period.
+For event 138: There are 1 / 30 prediction in the period.
+
+Event 139: 2007-07-02 19:07:30 start:
+		Rank 0: 2007-07-02 19:00:00 is in the period.
+For event 139: There are 1 / 30 prediction in the period.
+
+Event 140: 2007-06-22 14:55:00 start:
+		Rank 0: 2007-06-22 15:00:00 is in the period.
+		Rank 3: 2012-06-06 16:00:00 is in the period.
+		Rank 23: 2008-08-14 05:00:00 is in the period.
+		Rank 29: 2007-06-22 16:00:00 is in the period.
+For event 140: There are 4 / 30 prediction in the period.
+
+Event 141: 2009-06-29 17:07:30 start:
+		Rank 0: 2009-06-29 17:00:00 is in the period.
+		Rank 27: 2009-06-29 16:00:00 is in the period.
+For event 141: There are 2 / 30 prediction in the period.
+
+Event 142: 2008-08-02 03:35:00 start:
+		Rank 0: 2008-08-02 04:00:00 is in the period.
+		Rank 24: 2013-08-02 12:00:00 is in the period.
+		Rank 26: 2009-08-01 04:00:00 is in the period.
+For event 142: There are 3 / 30 prediction in the period.
+
+Event 143: 2014-04-26 00:27:30 start:
+		Rank 0: 2014-04-26 00:00:00 is in the period.
+		Rank 5: 2014-04-25 23:00:00 is in the period.
+		Rank 6: 2014-04-26 01:00:00 is in the period.
+		Rank 26: 2014-02-08 04:00:00 is in the period.
+For event 143: There are 4 / 30 prediction in the period.
+
+Event 144: 2010-05-01 23:05:00 start:
+		Rank 0: 2010-05-01 23:00:00 is in the period.
+		Rank 16: 2014-06-04 06:00:00 is in the period.
+For event 144: There are 2 / 30 prediction in the period.
+
+Event 145: 2016-06-20 09:15:00 start:
+		Rank 0: 2016-06-20 09:00:00 is in the period.
+		Rank 11: 2016-06-20 08:00:00 is in the period.
+		Rank 20: 2016-06-20 10:00:00 is in the period.
+For event 145: There are 3 / 30 prediction in the period.
+
+Event 146: 2014-07-19 07:15:00 start:
+		Rank 0: 2014-07-19 07:00:00 is in the period.
+		Rank 4: 2012-06-08 02:00:00 is in the period.
+		Rank 26: 2012-06-08 01:00:00 is in the period.
+For event 146: There are 3 / 30 prediction in the period.
+
+Event 147: 2016-06-16 01:40:00 start:
+		Rank 0: 2016-06-16 02:00:00 is in the period.
+For event 147: There are 1 / 30 prediction in the period.
+
+Event 148: 2012-04-04 05:45:00 start:
+		Rank 0: 2012-04-04 06:00:00 is in the period.
+		Rank 1: 2012-04-04 05:00:00 is in the period.
+		Rank 2: 2012-04-04 07:00:00 is in the period.
+		Rank 3: 2012-04-04 04:00:00 is in the period.
+		Rank 4: 2012-04-04 08:00:00 is in the period.
+		Rank 5: 2012-04-04 03:00:00 is in the period.
+		Rank 12: 2012-04-04 09:00:00 is in the period.
+		Rank 13: 2012-04-04 02:00:00 is in the period.
+For event 148: There are 8 / 30 prediction in the period.
+
+Event 149: 2012-08-15 11:55:00 start:
+		Rank 0: 2012-08-15 12:00:00 is in the period.
+For event 149: There are 1 / 30 prediction in the period.
+
+Event 150: 2005-08-13 13:37:30 start:
+		Rank 0: 2005-08-13 14:00:00 is in the period.
+		Rank 19: 2005-08-13 13:00:00 is in the period.
+		Rank 21: 2005-08-13 15:00:00 is in the period.
+For event 150: There are 3 / 30 prediction in the period.
+
+Event 151: 2006-11-17 08:25:00 start:
+		Rank 0: 2006-11-17 08:00:00 is in the period.
+		Rank 5: 2006-11-17 07:00:00 is in the period.
+		Rank 9: 2006-11-17 09:00:00 is in the period.
+For event 151: There are 3 / 30 prediction in the period.
+
+Event 152: 2013-06-20 18:40:00 start:
+		Rank 0: 2013-06-20 19:00:00 is in the period.
+		Rank 1: 2013-06-20 20:00:00 is in the period.
+		Rank 2: 2013-06-20 18:00:00 is in the period.
+For event 152: There are 3 / 30 prediction in the period.
+
+Event 153: 2017-05-17 10:02:30 start:
+		Rank 0: 2017-05-17 10:00:00 is in the period.
+For event 153: There are 1 / 30 prediction in the period.
+
+Event 154: 2005-12-30 10:10:00 start:
+For event 154: There are 0 / 30 prediction in the period.
+
+Event 155: 2007-11-18 19:52:30 start:
+		Rank 0: 2007-11-18 20:00:00 is in the period.
+		Rank 1: 2007-11-19 04:00:00 is in the period.
+		Rank 2: 2007-11-19 05:00:00 is in the period.
+		Rank 3: 2007-11-18 21:00:00 is in the period.
+		Rank 4: 2007-11-18 19:00:00 is in the period.
+		Rank 5: 2007-11-19 03:00:00 is in the period.
+		Rank 8: 2007-11-19 06:00:00 is in the period.
+		Rank 9: 2007-11-18 22:00:00 is in the period.
+		Rank 11: 2007-11-19 02:00:00 is in the period.
+		Rank 19: 2007-11-18 18:00:00 is in the period.
+For event 155: There are 10 / 30 prediction in the period.
+
+Event 156: 2008-08-13 04:27:30 start:
+		Rank 0: 2008-08-13 04:00:00 is in the period.
+For event 156: There are 1 / 30 prediction in the period.
+
